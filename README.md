@@ -33,10 +33,12 @@ npm install
 node index.js/npm start
 
 ## hal yang perlu di install
-1. npm init -y
-2. npm i express whatsapp-web.js qrcode-terminal axios
-3. npm i -g nodemon
-4. npm install dotenv
+  ```bash
+   npm init -y
+   npm i express whatsapp-web.js qrcode-terminal axios
+   npm i -g nodemon
+   npm install dotenv
+
 
 ## note
 jika ingin menggunakan Ai tinggal buka blok komentar pada kode lalu edit API di file .env
