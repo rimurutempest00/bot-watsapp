@@ -24,10 +24,10 @@ WhatsApp Bot ini dibangun menggunakan Node.js dan library [Baileys](https://gith
    git clone https://github.com/rimurutempest00/bot-watsapp.git
    cd bot-watsapp
 
-# Install Node.js (jika belum)
-# Install Git (jika clone dari GitHub)
-# Clone repo (jika menggunakan Git)
-# Install dependency
+### Install Node.js (jika belum)
+### Install Git (jika clone dari GitHub)
+### Clone repo (jika menggunakan Git)
+### Install dependency
 npm install
 # Jalankan bot
 node index.js/npm start
